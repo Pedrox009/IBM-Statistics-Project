@@ -1,4 +1,4 @@
-# IBM-Statistics-Project
+# IBM Statistics Project
 
 Working in a housing agency in Boston MA, I have been given access to a previous dataset on housing prices derived from the U.S. Census Service to present insights to higher management. We answer the following:
 
